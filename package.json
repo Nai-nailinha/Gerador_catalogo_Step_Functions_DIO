@@ -1,0 +1,18 @@
+{
+  "name": "netflix-functions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gerenciador de Catálogos (Netflix-like) com Azure Functions, Cosmos DB e Storage",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet\"",
+    "lint": "echo \"No lint configured\""
+  },
+  "dependencies": {
+    "@azure/cosmos": "^4.2.0",
+    "@azure/storage-blob": "^12.23.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "COSMOS_CONN_STRING": "<COLOCAR_STRING_DE_CONEXAO_COSMOS_AQUI>",
+    "COSMOS_DB": "netflixdb",
+    "COSMOS_CONTAINER": "catalogs",
+    "STORAGE_CONN_STRING": "<COLOCAR_STRING_DE_CONEXAO_STORAGE_AQUI>",
+    "STORAGE_CONTAINER": "uploads"
+  }
+}
